@@ -471,8 +471,5 @@ nssm remove YOURSERVICENAME
 
 ## Special Thanks
 
-<img src="https://i.imgur.com/xhe5RLZ.jpg" width="80px" align="right" />
-
-Thanks JetBrains for sponsoring this project with [free open source license](https://www.jetbrains.com/community/opensource/).
 
 > I like GoLand, it is an amazing and productive tool.
